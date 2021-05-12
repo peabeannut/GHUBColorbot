@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (BlueFireColorbot.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(89,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(99,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(249,31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(256,31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(268,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(268,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(582,4): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(583,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(584,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(585,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(586,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(588,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(589,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(590,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(591,4): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\BlueFireColorbot\main.cpp(696,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  BlueFireColorbot.vcxproj -> C:\Users\DarkS\Downloads\BlueFireColorbotPublic-master\BlueFireColorbotPublic-master\x64\Release\GHUBColorbot.exe
